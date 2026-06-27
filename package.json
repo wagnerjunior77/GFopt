@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "optimize": "node optimize-sp.js",
+    "render": "node render-path.js"
+  },
+  "dependencies": {
+    "sharp": "^0.35.2"
+  }
+}

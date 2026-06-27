@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Generated outputs
+output/
+output*/
+output-checks/
+renders/
+*.log
+
+*.md
+!README.md
+
+data/
+charts/
+*.txt
+/*.js
+!/optimize-sp.js
+!/render-path.js
+/*.com
+*.har
+*.gf
+
+CHOpt/
+
+.env
+.env.*
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
